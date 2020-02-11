@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/pubsub?activeTab=versions
 
+## [1.6.0](https://www.github.com/googleapis/nodejs-pubsub/compare/v1.5.0...v1.6.0) (2020-02-11)
+
+
+### Features
+
+* **subscription:** support oidcToken ([#865](https://www.github.com/googleapis/nodejs-pubsub/issues/865)) ([a786ca0](https://www.github.com/googleapis/nodejs-pubsub/commit/a786ca00bd27a6e098125d6b7b87edb11ea6ea0f))
+
 ## [1.5.0](https://www.github.com/googleapis/nodejs-pubsub/compare/v1.4.1...v1.5.0) (2020-02-03)
 
 
